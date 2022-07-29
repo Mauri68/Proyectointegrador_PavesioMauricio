@@ -23,11 +23,11 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css",
-              "Proyectointegrador_PavesioMauricio/node_modules/bootstrap/dist/css/bootstrap.css"
+              "Proyectointegrador_PavesioMauricio/Proyectointegrador_PavesioMauricio/node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "src/styles.css"
             ],
             "scripts": [
-              "Proyectointegrador_PavesioMauricio/node_modules/bootstrap/dist/js/bootstrap.js"
+              "Proyectointegrador_PavesioMauricio/Proyectointegrador_PavesioMauricio/node_modules/bootstrap/dist/js/bootstrap.min.js"
             ]
           },
           "configurations": {
